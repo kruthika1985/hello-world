@@ -8,7 +8,7 @@
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
-    <label for="Address"><b>Address</b></label>
+    <label for="Address"><b>kruthika home Address</b></label>
     <input type="text" placeholder="Address" name="Address" id="Address" required>
     <br>
 
